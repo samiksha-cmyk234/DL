@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "myenv/Scripts"
+		},
+		{
+			"path": "myenv/Include"
+		},
+		{
+			"path": "myenv/Lib"
+		}
+	]
+}
